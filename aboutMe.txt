@@ -1,4 +1,11 @@
 Name: Olu Akinwande
-Title: BlockChain Developer
+Title: BlockChain/Solidity Developer
 Project Goal: Full Deployed Project on the rinkeby test network
+Team Members:
+
+William Lemus = FullStackWebDev
+Olumide Akinwande = Solidity Developer
+Andrew Kim UI/UX Project Lead
+Aditya S. FullStackWebDev 
+YingQuong Data Scientist
 
